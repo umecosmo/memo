@@ -22,3 +22,11 @@ anya-no-MacBook-Air:~ anya$ > ~/.bash_profile`
 > echo 'eval "$(rbenv init -)"' >> ~/.bash_profile`
 anya-no-MacBook-Air:~ anya$ source ~/.bash_profile
 anya-no-MacBook-Air:~ anya$ 
+
+
+anya-no-MacBook-Air:~ anya$ cat ~/.bash_profile
+eval "$(rbenv init -)"
+anya-no-MacBook-Air:~ anya$ > ~/.bash_profile
+anya-no-MacBook-Air:~ anya$ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+anya-no-MacBook-Air:~ anya$ source ~/.bash_profile
+anya-no-MacBook-Air:~ anya$ 
