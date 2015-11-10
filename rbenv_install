@@ -17,3 +17,4 @@ ource ~/.zshrc
 ?export PATH=/usr/local/bin:?? source .bash_profile
 eval "$(rbenv init -)"
 anya-no-MacBook-Air:~ anya$ 
+
