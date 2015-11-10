@@ -1,0 +1,12 @@
+anya-no-MacBook-Air:~ anya$ brew update
+brew install rbenv ruby-build
+Already up-to-date.
+anya-no-MacBook-Air:~ anya$ brew install rbenv ruby-build
+Warning: rbenv-0.4.0 already installed
+Warning: ruby-build-20151028 already installed
+anya-no-MacBook-Air:~ anya$ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+anya-no-MacBook-Air:~ anya$ source ~/.bash_profile
+-bash: ?eval: command not found
+-bash: ource: command not found
+-bash: ?export: command not found
+anya-no-MacBook-Air:~ anya$ 
