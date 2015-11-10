@@ -18,3 +18,7 @@ ource ~/.zshrc
 eval "$(rbenv init -)"
 anya-no-MacBook-Air:~ anya$ 
 
+anya-no-MacBook-Air:~ anya$ > ~/.bash_profile`
+> echo 'eval "$(rbenv init -)"' >> ~/.bash_profile`
+anya-no-MacBook-Air:~ anya$ source ~/.bash_profile
+anya-no-MacBook-Air:~ anya$ 
