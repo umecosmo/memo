@@ -10,3 +10,10 @@ anya-no-MacBook-Air:~ anya$ source ~/.bash_profile
 -bash: ource: command not found
 -bash: ?export: command not found
 anya-no-MacBook-Air:~ anya$ 
+
+anya-no-MacBook-Air:~ anya$ cat ~/.bash_profile
+?eval ?$(rbenv init -)?eval ?$(rbenv init -)ource ~/.zshrc
+ource ~/.zshrc
+?export PATH=/usr/local/bin:?? source .bash_profile
+eval "$(rbenv init -)"
+anya-no-MacBook-Air:~ anya$ 
